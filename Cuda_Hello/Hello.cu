@@ -12,3 +12,4 @@ int main() {
     // forces the CPU (host) to wait until all previously launched GPU (device) tasks—kernels and memory operations—have finished executing.
     return 0;
 }
+//end of file
